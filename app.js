@@ -15,7 +15,7 @@ const reviews = [
     img:
       "https://i.postimg.cc/Y0xY3T2V/passport-1.webp",
     text:
-      "Working with you to create my custom design as the best decision I ever made...Fantstic!!  ",
+      "Working with you to create my custom design as the best decision I ever made...Fantstic!!",
   },
   {
     id: 3,
@@ -33,7 +33,7 @@ const reviews = [
     img:
       "https://i.postimg.cc/RFkXyrBZ/passport-4.jpg",
     text:
-      " I have never been so confident ith my business as this before. Relly Great Sites!!..They will take your businesses to the net Level.",
+      " I have never been so confident ith my business as this before. Relly Great Sites!!..They will take your businesses to the next Level.",
   },
 ];
 // select items
